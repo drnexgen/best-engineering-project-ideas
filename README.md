@@ -17,7 +17,7 @@ IoT, Embedded Systems, and Web Development.
 
 ## 🔗 Complete Project Ideas List
 
-👉 **Best Engineering Project Ideas – DR NEXGEN**  
+👉 **Best Engineering Project Ideas – DR NexGen Pvt Ltd**  
 https://www.drnexgen.com/engineering-projects/best-engineering-project-ideas
 
 ---
@@ -34,5 +34,5 @@ https://www.drnexgen.com/engineering-projects/best-engineering-project-ideas
 
 ## 🔹 Maintained By
 
-**DR NEXGEN**  
+**DR NexGen Pvt Ltd**  
 🌐 https://www.drnexgen.com
